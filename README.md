@@ -31,7 +31,7 @@ The dataset contains aggregated weekly sales for different food categories. Ther
 
 Each cuisine type has 3 kinds of beverages. We plotted the demand curve by cuisine.
 
-<img src="img/demand_curve_poster.png">
+<img src="img/demand_curve_poster.PNG">
 
 Customers are responded consistently to the price regardless of the product differences in the same cuisine type. Only Indian beverages have a thicker line, which means it has more demand variations at a given price. 
 
@@ -43,13 +43,13 @@ Customers are responded consistently to the price regardless of the product diff
 3. All cross-price elasticity are low, which tells us the demand is not affected by other products in the same category. 
 4. Note that the cross-price elasticity of Italian 2707 has negative values - Italian 2707 could be a bundled drink of other Italian beverages.
 
-<img src="img/elasticity_poster.png">
+<img src="img/elasticity_poster.PNG">
 
 ## Demand Prediction
 
 - We learn that the demand is mostly not affected by other products. We want to see which model describes the demand the best.  
 
-<img src="img/models_poster.png">
+<img src="img/models_poster.PNG">
 
 ## Find the Best Price to Maximize Profit
 
@@ -58,7 +58,7 @@ Customers are responded consistently to the price regardless of the product diff
 3. Choose `model_2` for the demand (Q) - good fit & generalized enough
 4. Use **exponential function (pdf)** to describe the customer behavior - probability of `sum(num_orders)` for each price of each cuisine
 
-<img src="img/optimal_price_poster.png">
+<img src="img/optimal_price_poster.PNG">
 
 ## Team 
 
