@@ -25,6 +25,8 @@ Analyze the demand curve, price elasticity for different beverages for a food de
 
 The dataset contains aggregated weekly sales for different food categories. There are 77 different centers and some centers have up to 145 weeks of data. It also has base_price, checkout_price, num_orders, and promotion record via email or homepage.
 
+<img src="img/dataset_poster.PNG">
+
 ## Data pre-processing
 
 1. Eliminate the rows with email and homepage promotion.
