@@ -1,8 +1,8 @@
 #  Price, Demand and Profit Analysis in the Beverage Category for a Food Delivery Company
 
-## Code
+## Documentation
 
-Click **[here](food_dilivery_v1.ipynb)** to see the code
+Click **[here](food_delivery_v1.ipynb)** to see the jupyter notebook (code) and documentation.
 
 ## Background
 
