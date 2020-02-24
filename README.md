@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Click **[here](food_delivery_v1.ipynb)** to see the jupyter notebook (code) and documentation.
+Click **[food_delivery_v1.ipynb](food_delivery_v1.ipynb)** to see the FULL analysis.
 
 ## Background
 
