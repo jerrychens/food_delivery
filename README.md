@@ -4,6 +4,11 @@
 
 Click **[food_delivery_v1.ipynb](food_delivery_v1.ipynb)** to see the FULL analysis.
 
+## Poster
+
+Click **[food_delivery_poster_48x36.pdf](food_delivery_poster_48x36.pdf)** to see the poster.
+
+
 ## Background
 
 Analyze the demand curve, price elasticity for different beverages for a food delivery company in India, which has multiple food centers. Build demand prediction models and propose optimal prices for 4 different cuisine types of beverages.
