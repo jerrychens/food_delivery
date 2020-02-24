@@ -1,5 +1,9 @@
 #  Price, Demand and Profit Analysis in the Beverage Category for a Food Delivery Company
 
+## Code
+
+Click [here](food_dilivery_v1.ipynb) to see the code
+
 <img src="img/fooddelivery.png">
 
 ## Background
@@ -16,3 +20,6 @@ Analyze the demand curve, price elasticity for different beverages for a food de
 
 The dataset contains aggregated weekly sales for different food categories. There are 77 different centers and some centers have up to 145 weeks of data. It also has base_price, checkout_price, num_orders, and promotion record via email or homepage.
 
+## Team 
+<img src="img/team.jpg">
+(left to right) Jerry Chen, Xuemeng Wu, Jenny Zhang
