@@ -12,6 +12,6 @@ Analyze the demand curve, price elasticity for different beverages for a food de
 
 ## Dataset
 
-[Link] https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/
 The dataset contains aggregated weekly sales for different food categories. There are 77 different centers and some centers have up to 145 weeks of data. It also has base_price, checkout_price, num_orders, and promotion record via email or homepage.
 
+[Link](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/)
